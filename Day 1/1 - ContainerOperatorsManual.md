@@ -1,4 +1,6 @@
-# 'The Container Operators Manual' by Alice Goldfuss (SRE @ GitHub) @alicegoldfuss
+# 'The Container Operators Manual' by Alice Goldfuss (SRE @ GitHub) [@alicegoldfuss](https://twitter.com/alicegoldfuss)
+
+![Alice Goldfuss](img/01_AliceGoldfuss.jpg "Alice Goldfuss intro")
 
 Container talks are normally "labratory settings" - it's not representative of real world environments. \
 Containers are a good use-case, but we need to be a little more critical! \

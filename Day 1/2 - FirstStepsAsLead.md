@@ -1,4 +1,6 @@
-# 'First Steps as a Lead' by Dan Persa (TL @ Zalando) @danpersa
+# 'First Steps as a Lead' by Dan Persa (TL @ Zalando) [@danpersa](https://twitter.com/danpersa)
+
+![Dan Persa](img/02_DanPersa.jpg "Dan Persa intro")
 
 Engineering Lead at Zalando in Berlin. \
 _Very robotic voice & quite stiff._

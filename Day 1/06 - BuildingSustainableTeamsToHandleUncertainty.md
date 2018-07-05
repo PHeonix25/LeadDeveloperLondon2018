@@ -1,10 +1,14 @@
-# 'Building Sustainable Teams to Handle Uncertainty' by Jenny Duckett (Architect @ Ministry of Justice) @jenny_duckett
+# 'Building Sustainable Teams to Handle Uncertainty' by Jenny Duckett (Architect @ Ministry of Justice) [@jenny_duckett](https://twitter.com/jenny_duckett)
+
+![Jenny Duckett Introduction](img/06_JennyDuckett.jpg "Jenny Duckett introduction")
 
 > Think about the best experience you've had working with a team!
 
 Jenny tells us about her experience:
 
 Change is a good thing!
+
+![Main Topics](img/06a_JennyDuckett.jpg "Main topics")
 
 ## What can disrupt a team?
 

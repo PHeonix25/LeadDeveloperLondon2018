@@ -1,6 +1,8 @@
-# 'Knowing me, knowing you: growing teams to continously deliver' by Pia Nilsson (EngMgr @ Spotify) @pia_nilsson
+# 'Knowing me, knowing you: growing teams to continously deliver' by Pia Nilsson (EngMgr @ Spotify) [@pia_nilsson](https://twitter.com/pianilsson)
 
-> Journey of the CI/CD team while getting them to deliver more.
+> This is a story about the journey of the CI/CD team, while getting them to deliver more.
+
+![Pia Nilsson](img/04a_PiaNilsson.jpg "Pia Nilsson introduction")
 
 1. Recap: flow in an Engineering Team is similar to a Scrum team. Limit WIP. Finding Bottlenecks in people, process in systems.
 1. Spotify had lots of stuff that was stuck in WIP with lots of people leaving and joining th eteam.

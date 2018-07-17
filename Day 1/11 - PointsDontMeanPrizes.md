@@ -1,5 +1,7 @@
 # 'Points don't mean Prizes' by Adrian Howard (Dev @ QuietStars) @adrianh
 
+![Adrian Howard Introduction](img/11_AdrianHoward.jpg "Adrian Howard introduction")
+
 ## Introduction
 
 Story time, talking about the North Star

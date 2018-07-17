@@ -1,5 +1,7 @@
 # 'Junior.next()' by Tara Ojo (Dev @ FutureLearn) @tara_ojo
 
+![Tara Ojo Introduction](img/10_TaraOjo.jpg "Tara Ojo introduction")
+
 ## "Junior should" vs "Supporters should"
 
 The talk is divided into two sections: **Junors** and **Supporters**

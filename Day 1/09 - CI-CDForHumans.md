@@ -1,5 +1,7 @@
 # 'CI/CD for Humans: Empathy as the Foundation for Effective Deployments' by Jackie Balzer (Head of FE Dev @ Behance/Adobe) @jackiebackwards
 
+![Jackie Balzer Introduction](img/09_JackieBalzer.jpg "Jackie Balzer introduction")
+
 > _"This is not about DevOps (or Behance, the product)"_
 
 ## What makes a good deploy?

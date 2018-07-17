@@ -1,5 +1,7 @@
 # 'Introduction to ReasonML' by Jack Lewin (Dev @ Sky) @jlewin_
 
+![Jack Lewin Introduction](img/08_JackLewin.jpg "Jack Lewin introduction")
+
 > _"People that came to React, are now tweeting about ReasonML..."_
 
 ## Background

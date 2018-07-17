@@ -1,5 +1,7 @@
 # 'Who Destroyed Three Mile Island' by Nickolas Means (VP Eng @ Muve Health) @nmeans
 
+![Nickolas Means Introduction](img/12_NickolasMeans.jpg "Nickolas Means introduction")
+
 **Great** story about how a Nuclear Reactor works and how this one melted down.
 
 Work from the Participants Reality. \  

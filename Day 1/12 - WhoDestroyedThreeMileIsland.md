@@ -1,6 +1,7 @@
 # 'Who Destroyed Three Mile Island' by Nickolas Means (VP Eng @ Muve Health) @nmeans
 
 ![Nickolas Means Introduction](img/12_NickolasMeans.jpg "Nickolas Means introduction")
+VIDEO: [here](https://www.youtube.com/watch?v=hMk6rF4Tzsg&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=20&t=0s). SLIDES: TBA.
 
 **Great** story about how a Nuclear Reactor works and how this one melted down.
 

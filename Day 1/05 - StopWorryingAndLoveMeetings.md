@@ -1,6 +1,7 @@
 # 'How I Learned to Stop Worrying and Love Meetings' by Menno van Slooten (Lead @ Backbase) [@mennovanslooten](https://twitter.com/mennovanslooten)
 
 ![Menno van Slooten](img/05_MennoVanSlooten.jpg "Menno van Slooten introduction")
+VIDEO: [here](https://www.youtube.com/watch?v=PFk9yhEqcN4&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=15&t=0s). SLIDES: TBA.
 
 Very personal story, not truthful, just insightful. \
 Let's have a chat about how i learned to like being a (Chapter) Lead. \

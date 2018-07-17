@@ -1,6 +1,7 @@
 # 'Giving and Recieving Code Reviews Gracefully' by Alexandra Hill (Dev @ Imperial College) [@alexhillphd](https://twitter.com/alexhillphd)
 
 ![Alexandra Hill](img/03_AlexandraHill.jpg "Alexandra Hill intro")
+VIDEO: [here](https://www.youtube.com/watch?v=XY6eA2_2hOg&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=17&t=0s). SLIDES: TBA.
 
 ## Why Review
 

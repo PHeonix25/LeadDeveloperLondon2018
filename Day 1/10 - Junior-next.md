@@ -1,6 +1,7 @@
 # 'Junior.next()' by Tara Ojo (Dev @ FutureLearn) @tara_ojo
 
 ![Tara Ojo Introduction](img/10_TaraOjo.jpg "Tara Ojo introduction")
+VIDEO: [here](https://www.youtube.com/watch?v=6sVRVCAcNh8&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=5&t=0s). SLIDES: TBA.
 
 ## "Junior should" vs "Supporters should"
 

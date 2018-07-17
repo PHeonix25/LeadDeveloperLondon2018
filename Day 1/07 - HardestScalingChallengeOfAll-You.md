@@ -1,5 +1,7 @@
 # 'The Hardest Scaling Challenge of All: Yourself' by Christian McCarrick (SVP Plat Eng @ Alt Zero) @cmccarrick
 
+VIDEO: [here](https://www.youtube.com/watch?v=86fqsVWngHI&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=11&t=0s). SLIDES: TBA.
+
 There is a lot of value in systems that scale your effort. \
 I can't get it all done - everyone is short on time.
 

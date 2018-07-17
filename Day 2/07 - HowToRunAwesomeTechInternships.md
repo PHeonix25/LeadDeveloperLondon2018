@@ -1,6 +1,9 @@
 # 'How to Run Awesome Tech Internships' by Beverley Newing (FE Dev @ Oxford Computer Consultants) @webdevbev
 
 ![Beverley Newing](img/07_BeverleyNewing.jpg "Beverley Newing intro")
+VIDEO: [here](https://www.youtube.com/watch?v=CSGD1Qt0VZc&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=22&t=0s). SLIDES: TBA.
+
+---
 
 Bev has had 3 internships, CodeFirst:Girls, Zooniverse, OCC, and now a solid contract.
 

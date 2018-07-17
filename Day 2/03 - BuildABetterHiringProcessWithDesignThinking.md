@@ -1,6 +1,9 @@
 # 'Build a Better Hiring Process with Design Thinking' by Crystal Yan (Independant UXer & PM Lead) @crystalcy #buildbetterhiring
 
 ![Crystal Yan](img/03_CrystalYan.jpg "Crystal Yan intro")
+VIDEO: [here](https://www.youtube.com/watch?v=zeE43nyCQVg&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=8&t=0s). SLIDES: TBA.
+
+---
 
 ## Introduction
 

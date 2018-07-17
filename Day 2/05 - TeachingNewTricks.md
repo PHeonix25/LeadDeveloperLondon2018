@@ -1,6 +1,9 @@
 # 'Teaching New Tricks - How to Enhance the Skills of Experienced Developers' by Clare Sudbery (Lead Developer @ Thoughtworks) @claresudbery
 
 ![Clare Sudbery](img/05_ClareSudbery.jpg "Clare Sudbery intro")
+VIDEO: [here](https://www.youtube.com/watch?v=Ue4dOfTRofg&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=2&t=0s). SLIDES: TBA.
+
+---
 
 Not specific about WHICH skills, but does lean toward XP/TDD/Mob & Pair Programming.
 

@@ -1,6 +1,9 @@
 # 'Strategies to Edit Production Data' by Julie Qiu (Eng Lead @ Spring) @jqiu25
 
 ![Julie Qiu](img/08_JulieQiu.jpg "Julie Qiu intro")
+VIDEO: [here](https://www.youtube.com/watch?v=MzkjA7jzNV8&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=4&t=0s). SLIDES: TBA.
+
+---
 
 ## Why do we edit Production data?
 

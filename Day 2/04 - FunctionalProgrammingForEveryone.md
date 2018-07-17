@@ -1,6 +1,9 @@
 # Functional Programming for Everyone by Marek Rogala (CTO @ Appsilon) @marekrog
 
 ![Marek Rogala](img/04_MarekRogala.jpg "Marek Rogala intro")
+VIDEO: [here](https://www.youtube.com/watch?v=7sIdclqEQn8&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=9&t=0s). SLIDES: TBA.
+
+---
 
 Journey analogy with three stops
 

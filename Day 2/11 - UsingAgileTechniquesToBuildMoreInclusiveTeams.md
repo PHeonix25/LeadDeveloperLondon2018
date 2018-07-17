@@ -4,6 +4,9 @@
 ---
 
 ![Kevin Goldsmith](img/11_KevinGoldsmith.jpg "Kevin Goldsmith intro")
+VIDEO: [here](https://www.youtube.com/watch?v=Atfxtk2Q90k&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=19&t=0s). SLIDES: TBA.
+
+---
 
 This is not a talk about Agile... Just using some of their methodologies.
 

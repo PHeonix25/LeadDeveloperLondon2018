@@ -1,5 +1,9 @@
 # 'How to Survive the Single Page App-ocalypse' by Jim Newbury (FE Coach @ Tinned Fruit) @froots101
 
+VIDEO: [here](https://www.youtube.com/watch?v=1SRO-1HBE6E&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=23&t=0s). SLIDES: TBA.
+
+---
+
 > _SINGLE PAGE APPS DAMAGE BUSINESSES*_
 
 Solid intro!

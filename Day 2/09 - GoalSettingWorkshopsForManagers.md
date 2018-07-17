@@ -1,5 +1,9 @@
 # 'Goal-Setting Workshops for Managers' by Melinda Seckington (Technical Manager @ FutureLearn) @mseckington
 
+VIDEO: [here](https://www.youtube.com/watch?v=np1rZvM9GD4&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=24&t=0s). SLIDES: TBA.
+
+---
+
 > _Where do you see yourself in 5 years time?_
 
 Techniques like SMART, GROW, etc. are about helping people reach their goals... not about discovering the goals! \

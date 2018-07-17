@@ -1,5 +1,7 @@
 # Tips for Managing a Widely Distributed Team by Dirkjan Bussink (Principal Engineer @ GitHub) @dbussink
 
+![Dirkjan Bussink](img/06_DirkjanBussink.jpg "Dirkjan Bussink intro")
+
 Managing - what is managing \
 Widely - what about when they are across the globe \
 Team - A group of people!

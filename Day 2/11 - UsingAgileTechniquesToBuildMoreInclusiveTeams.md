@@ -3,6 +3,8 @@
 > AKA: Agile Techniques for Lead Developers
 ---
 
+![Kevin Goldsmith](img/11_KevinGoldsmith.jpg "Kevin Goldsmith intro")
+
 This is not a talk about Agile... Just using some of their methodologies.
 
 ## First Sync

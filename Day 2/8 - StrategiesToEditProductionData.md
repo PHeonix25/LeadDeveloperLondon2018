@@ -1,5 +1,7 @@
 # 'Strategies to Edit Production Data' by Julie Qiu (Eng Lead @ Spring) @jqiu25
 
+![Julie Qiu](img/08_JulieQiu.jpg "Julie Qiu intro")
+
 ## Why do we edit Production data?
 
 - Internal tools are not available

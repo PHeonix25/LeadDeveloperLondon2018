@@ -3,6 +3,8 @@
 ![Jack Lewin Introduction](img/08_JackLewin.jpg "Jack Lewin introduction")
 VIDEO: [here](https://www.youtube.com/watch?v=oKyoXl8jnCI&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=12&t=0s). SLIDES: TBA.
 
+---
+
 > _"People that came to React, are now tweeting about ReasonML..."_
 
 ## Background

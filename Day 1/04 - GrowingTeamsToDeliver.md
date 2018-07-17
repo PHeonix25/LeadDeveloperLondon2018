@@ -5,6 +5,8 @@
 ![Pia Nilsson](img/04a_PiaNilsson.jpg "Pia Nilsson introduction")
 VIDEO: [here](https://www.youtube.com/watch?v=S92vVAEofes&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=16&t=0s). SLIDES: TBA.
 
+---
+
 1. Recap: flow in an Engineering Team is similar to a Scrum team. Limit WIP. Finding Bottlenecks in people, process in systems.
 1. Spotify had lots of stuff that was stuck in WIP with lots of people leaving and joining th eteam.
 1. Leant on the LEAN and Agile practices:

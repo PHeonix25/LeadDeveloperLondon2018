@@ -3,6 +3,8 @@
 ![Jackie Balzer Introduction](img/09_JackieBalzer.jpg "Jackie Balzer introduction")
 VIDEO: [here](https://www.youtube.com/watch?v=eB1P6GjXvuQ&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=13&t=0s). SLIDES: TBA.
 
+---
+
 > _"This is not about DevOps (or Behance, the product)"_
 
 ## What makes a good deploy?

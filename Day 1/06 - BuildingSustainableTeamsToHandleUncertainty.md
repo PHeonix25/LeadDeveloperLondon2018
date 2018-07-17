@@ -3,6 +3,8 @@
 ![Jenny Duckett Introduction](img/06_JennyDuckett.jpg "Jenny Duckett introduction")
 VIDEO: [here](https://www.youtube.com/watch?v=72FMIy_wX68&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=14&t=0s). SLIDES: TBA.
 
+---
+
 > Think about the best experience you've had working with a team!
 
 Jenny tells us about her experience:

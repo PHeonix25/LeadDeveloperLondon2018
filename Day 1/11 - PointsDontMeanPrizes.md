@@ -3,6 +3,8 @@
 ![Adrian Howard Introduction](img/11_AdrianHoward.jpg "Adrian Howard introduction")
 VIDEO: [here](https://www.youtube.com/watch?v=uxdouZL6imw&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=6&t=0s). SLIDES: TBA.
 
+---
+
 ## Introduction
 
 Story time, talking about the North Star

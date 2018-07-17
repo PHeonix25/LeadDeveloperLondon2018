@@ -1,5 +1,7 @@
 # 'Legacy Code: Big Rewrite or Progressive Rejuvenation?' by Uberto Barbini (Functional Specialist @ Standard Charter Bank) @ramtop
 
+![Uberto Barbini](img/02_UbertoBarbini.jpg "Uberto Barbini intro")
+
 Legacy systems: They were great at their time, but now nobody wants to work on them.
 
 Progressive Rewrite is also called the Strangler Pattern (from Martin Fowler)

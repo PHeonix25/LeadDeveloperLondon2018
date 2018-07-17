@@ -1,5 +1,7 @@
 # Functional Programming for Everyone by Marek Rogala (CTO @ Appsilon) @marekrog
 
+![Marek Rogala](img/04_MarekRogala.jpg "Marek Rogala intro")
+
 Journey analogy with three stops
 
 ## First Stop: Immutability Island

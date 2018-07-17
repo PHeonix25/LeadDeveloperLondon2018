@@ -1,5 +1,7 @@
 # 'Go Slow to Go Fast: Building Strong Foundations for Leadership' by Alicia Liu (VP Eng @ Nava) @aliciatweet
 
+![Alicia Liu](img/01_AliciaLiu.jpg "Alicia Liu intro")
+
 To be a good leader, it starts with you! ...then your team, and then the world!
 
 This session is a long story about how Alicia has pushed herself too hard, then hit depression/insomnia, and then bought herself back by training for triathlons!!

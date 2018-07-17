@@ -1,5 +1,7 @@
 # 'Build a Better Hiring Process with Design Thinking' by Crystal Yan (Independant UXer & PM Lead) @crystalcy #buildbetterhiring
 
+![Crystal Yan](img/03_CrystalYan.jpg "Crystal Yan intro")
+
 ## Introduction
 
 - Why does this matter?
